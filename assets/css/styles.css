@@ -12,6 +12,7 @@ section.principal {
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
+	margin-bottom: 20px;
 }
 h2{
 	text-align: center;
@@ -21,6 +22,13 @@ h2{
 	font-family: 'Playfair Display', serif;
 }
 
-p.parrafos{
-	padding: 2em;
+p{
+	margin-top:3em;
+}
+
+.icono{
+	border:1px solid #333;
+	padding: 8px;
+	border-radius: 50%;
+	margin-right: 5px;
 }
