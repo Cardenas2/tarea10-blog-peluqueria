@@ -19,11 +19,16 @@ h2{
 	padding-top: 50vh;
 	color: #ffffff;
 	font-size: 4rem;
+	font-weight: 700;
 	font-family: 'Playfair Display', serif;
 }
 
 p{
 	margin-top:3em;
+}
+time{
+	font-weight: 400;
+	font-family: 'Playfair Display', serif;
 }
 
 .icono{
